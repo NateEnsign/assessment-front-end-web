@@ -36,3 +36,11 @@ input {
 img {
 	max-width: 300px;
 }
+
+.myBtns {
+	background-color: yellow;
+	padding: 50px 25px;
+	font-size: 25px;
+	margin-top: 10px;
+}
+
